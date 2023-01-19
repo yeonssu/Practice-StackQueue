@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47f0e9cf-f32a-4cf8-80be-136511e62c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackQueuePractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Printer.java" afterDir="false" />
+    <list default="true" id="47f0e9cf-f32a-4cf8-80be-136511e62c5a" name="Changes" comment="finish">
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueImplement_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueImplement_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackImplement_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackImplement_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +43,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yeonsu/IdeaProjects/CodestatesPractice/StackQueuePractice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yeonsu/IdeaProjects/CodestatesPractice/Practice/StackQueuePractice&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,10 +69,32 @@
       <workItem from="1673853653308" duration="12000" />
       <workItem from="1673854241729" duration="9935000" />
       <workItem from="1673916951092" duration="8338000" />
+      <workItem from="1673945343269" duration="186000" />
+      <workItem from="1674055216186" duration="3919000" />
+      <workItem from="1674087144236" duration="5249000" />
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <created>1673945473276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673945473276</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finish">
+      <created>1673945519127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673945519127</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
 </project>
